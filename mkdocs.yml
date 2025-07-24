@@ -1,0 +1,15 @@
+site_name: ShapeReality - 3D Modeling Manual
+theme: 
+  name: readthedocs
+  logo: img/shapereality_logo_light.png
+markdown_extensions:
+  - admonition
+  - footnotes
+extra_css: [extra.css]
+nav:
+  - Home: '../'
+  - About:
+    - License: "about/license.md"
+    - Privacy Policy: "about/privacy-policy.md"
+    - Acknowledgements: "about/acknowledgements.md"
+    - Support: "about/support.md"
