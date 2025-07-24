@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated: June 20, 2023
+Last updated: July 24, 2025
 
 This privacy policy governs your use of the software application ShapeReality - 3D Modeling. Our privacy policy may change from time to time for any reason. If we make any material changes to our policies, we will place a prominent notice on our website or application. 
 
