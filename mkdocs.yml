@@ -1,7 +1,7 @@
 site_name: ShapeReality - 3D Modeling Manual
 theme: 
   name: readthedocs
-  logo: img/shapereality_logo_light.png
+  logo: img/icon_dark_rounded.png
 markdown_extensions:
   - admonition
   - footnotes

@@ -1,4 +1,4 @@
-![ShapeReality](img/shapereality_logo_light.png)
+![ShapeReality](img/icon_dark_rounded.png)
 
 # ShapeReality - 3D Modeling Manual
 
